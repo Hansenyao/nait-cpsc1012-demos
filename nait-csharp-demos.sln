@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleInput2", "ConsoleInp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecisionDemo", "DecisionDemo\DecisionDemo.csproj", "{DD9CEFCB-C919-4889-911A-BF918EFF01A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{14FCDAFD-D089-4CEE-A596-0B0154E8E0A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{14FCDAFD-D089-4CEE-A596-0B0154E8E0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{84AF3D42-112D-4796-A9EA-B36E0B218FF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{14FCDAFD-D089-4CEE-A596-0B0154E8E0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14FCDAFD-D089-4CEE-A596-0B0154E8E0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14FCDAFD-D089-4CEE-A596-0B0154E8E0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AF3D42-112D-4796-A9EA-B36E0B218FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AF3D42-112D-4796-A9EA-B36E0B218FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AF3D42-112D-4796-A9EA-B36E0B218FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AF3D42-112D-4796-A9EA-B36E0B218FF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

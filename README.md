@@ -1,2 +1,2 @@
 # nait-csharp-demos
-All C# demo projects in programming courses at NAIT.
+The demo projects for CPSC1012 (programming) at NAIT.
